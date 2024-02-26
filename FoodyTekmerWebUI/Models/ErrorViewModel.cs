@@ -1,4 +1,4 @@
-namespace FoodyTekmerWebUI.Models
+namespace MoonWebUI.Models
 {
     public class ErrorViewModel
     {

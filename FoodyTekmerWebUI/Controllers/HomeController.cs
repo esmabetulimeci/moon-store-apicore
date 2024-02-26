@@ -1,8 +1,8 @@
-﻿using FoodyTekmerWebUI.Models;
+﻿using MoonWebUI.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace FoodyTekmerWebUI.Controllers
+namespace MoonWebUI.Controllers
 {
     public class HomeController : Controller
     {

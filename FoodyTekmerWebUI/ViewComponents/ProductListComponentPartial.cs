@@ -1,7 +1,7 @@
-﻿using FoodyTekmerBusinessLayer.Abstract;
+﻿using BusinessLayer.Abstract;
 using Microsoft.AspNetCore.Mvc;
 
-namespace FoodyTekmerWebUI.ViewComponents
+namespace MoonWebUI.ViewComponents
 {
     public class ProductListComponentPartial : ViewComponent
     {

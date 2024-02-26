@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace FoodyTekmerWebUI.Controllers
+namespace MoonWebUI.Controllers
 {
     public class DefaultController : Controller
     {

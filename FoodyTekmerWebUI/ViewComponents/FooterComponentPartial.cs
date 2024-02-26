@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace FoodyTekmerWebUI.ViewComponents
+namespace MoonWebUI.ViewComponents
 {
     public class FooterComponentPartial : ViewComponent
     {

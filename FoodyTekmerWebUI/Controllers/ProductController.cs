@@ -1,8 +1,8 @@
-﻿using FoodyTekmerBusinessLayer.Abstract;
-using FoodyTekmerEntityLayer.Concrete;
+﻿using BusinessLayer.Abstract;
+using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
 
-namespace FoodyTekmerWebUI.Controllers
+namespace MoonWebUI.Controllers
 {
     public class ProductController : Controller
     {

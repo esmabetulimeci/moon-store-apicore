@@ -1,8 +1,8 @@
-using FoodyTekmerDataAccessLayer.Abstract;
-using FoodyTekmerDataAccessLayer.Context;
-using FoodyTekmerDataAccessLayer.EntityFramework;
-using FoodyTekmerBusinessLayer.Abstract;
-using FoodyTekmerBusinessLayer.Concrete;
+using DataAccessLayer.Abstract;
+using DataAccessLayer.Context;
+using DataAccessLayer.EntityFramework;
+using BusinessLayer.Abstract;
+using BusinessLayer.Concrete;
 
 var builder = WebApplication.CreateBuilder(args);
 
