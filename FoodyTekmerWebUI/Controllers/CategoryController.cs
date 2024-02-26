@@ -1,8 +1,8 @@
-﻿using FoodyTekmerDataAccessLayer.Context;
-using FoodyTekmerEntityLayer.Concrete;
+﻿using DataAccessLayer.Context;
+using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
 
-namespace FoodyTekmerWebUI.Controllers
+namespace MoonWebUI.Controllers
 {
     public class CategoryController : Controller
     {

@@ -1,13 +1,13 @@
-﻿using FoodyTekmerDataAccessLayer.Abstract;
-using FoodyTekmerBusinessLayer.Abstract;
-using FoodyTekmerEntityLayer.Concrete;
+﻿using DataAccessLayer.Abstract;
+using BusinessLayer.Abstract;
+using EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FoodyTekmerBusinessLayer.Concrete
+namespace BusinessLayer.Concrete
 {
     public class ProductManager : IProductService
     {

@@ -1,4 +1,4 @@
-﻿using FoodyTekmerEntityLayer.Concrete;
+﻿using EntityLayer.Concrete;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FoodyTekmerDataAccessLayer.Context
+namespace DataAccessLayer.Context
 {
     public class FoodyContext : DbContext
     {
