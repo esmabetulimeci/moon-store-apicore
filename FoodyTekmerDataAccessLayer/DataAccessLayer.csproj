@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FoodyTekmerEntityLayer\FoodyTekmerEntityLayer.csproj" />
+    <ProjectReference Include="..\FoodyTekmerEntityLayer\EntityLayer.csproj" />
   </ItemGroup>
 
 </Project>
